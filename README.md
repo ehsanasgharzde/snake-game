@@ -1,6 +1,6 @@
 # Snake Game
 
-This Snake Game is a classic arcade-style game implemented in Python using the Tkinter library. The game consists of several modules, each responsible for different aspects of the game.
+This Snake Game is a classic arcade-style game implemented in Python using the Turtle library. The game consists of several modules, each responsible for different aspects of the game.
 
 ## Modules
 
@@ -27,14 +27,12 @@ This Snake Game is a classic arcade-style game implemented in Python using the T
 ## Requirements
 
 - Python 3.x
-- Tkinter (included in most Python installations)
+- Turtle library (included in most Python installations)
 
 ## Installation
 
 1. Clone the repository to your local machine.
 
 2. Run `main.py` to start the game.
-
-
 
 Enjoy the game!
